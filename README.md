@@ -1,3 +1,3 @@
 # maven-project
 
-Simple Maven Project
+Simple Jenkins-Tomcat_Maven Project
